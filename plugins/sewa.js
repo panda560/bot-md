@@ -31,7 +31,7 @@ wa.me/${owner[0]}
   jpegThumbnail: d },
   businessOwnerJid: `${owner[0]}@s.whatsapp.net`
   },
-  footerText: 'https://github.com/Kangsad01',
+  footerText: 'https://www.instagram.com/invites/contact/?i=18n050noxcaqr&utm_content=4fkjlpc',
   }},{})
   conn.relayMessage(prepare.key.remoteJid,prepare.message,{messageId:prepare.key.id})
 }
